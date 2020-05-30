@@ -1,0 +1,42 @@
+#footer_text{
+    text-align: center;
+    margin: 15px 0 !important;
+}
+
+body{
+    background-color: rgb(248, 249, 254);
+    padding-top: 50px;
+    min-height: 100vh;
+}
+
+.p_0{
+    padding: 0;
+}
+
+.m_top_50{
+    margin-top: 50px;
+}
+
+.m_bottom_80{
+    margin-bottom: 80px;
+}
+
+.float_right{
+    float: right;
+}
+
+#footer{
+    max-height: 70px;
+    margin: 0;
+    border-radius: 0;
+    position: sticky;
+    top: calc(100vh - 50px);
+}
+
+main{
+    min-height: calc(100vh - 100px);
+}
+
+.no_border{
+    border: 0px;
+}

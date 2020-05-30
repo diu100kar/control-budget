@@ -1,0 +1,16 @@
+#expense_button{
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 15px;
+}
+
+.new_expense{
+    position: sticky;
+    top: 93px;
+}
+
+@media only screen and (min-width: 992px) {
+  #expense_button{
+    padding-top: 74.5px;
+  }
+}

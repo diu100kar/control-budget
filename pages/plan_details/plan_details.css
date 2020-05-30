@@ -1,0 +1,16 @@
+.p_l{
+    padding: 0 0 0 15px;
+}
+
+.p_r{
+    padding: 0 15px 0 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .p_r{
+      padding: 0;
+  }
+  .p_l{
+      padding: 0;
+  }
+}

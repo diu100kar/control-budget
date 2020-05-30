@@ -1,0 +1,31 @@
+#no_plan{
+    padding: 60px 0;
+}
+
+h1{
+    padding: 25px 0 25px 0;
+}
+
+#link{
+    text-decoration: none;
+}
+
+#add_wrap{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+#add{
+    float: right;
+    font-size: 50px;
+    margin: 0 25px 4px 0;
+}
+
+.background_white{
+    /*background: rgb(248, 249, 254);*/
+}
+
+.panel_margin{
+    margin: 10px;
+}
